@@ -2,7 +2,12 @@ public class text {
 
 
     public static void main(String[] args) {
-        System.out.println("Hello World");
+        System.out.println("Hello World bug" );
     }
-    //这是测试为什么不对txt文本内容的合并进行提示
+    public text(){
+
+        System.out.println("text");
+
+    }
+    //这是bug版本的java文件1
 }
